@@ -1,0 +1,9 @@
+@import url(header.css);
+:root{
+    --dourado-escuro: #A06517;
+    --fonte-titulo:"Libre Baskerville";
+    --branco:#ffffff;
+    --dourado-titulo:#744507;
+    --dourado-botao:#E9B269;
+    --dourado-fraco:#C6872D;
+}
