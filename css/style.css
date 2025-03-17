@@ -1,4 +1,5 @@
 @import url(header.css);
+@import url(banner.css);
 :root{
     --dourado-escuro: #A06517;
     --fonte-titulo:"Libre Baskerville";
@@ -6,4 +7,7 @@
     --dourado-titulo:#744507;
     --dourado-botao:#E9B269;
     --dourado-fraco:#C6872D;
+    --fonte-botao: "bebas neue";
+    --fonte-botao-baixo: "poppins";
+    --cor-fonte-botao: #724500;
 }
